@@ -1,6 +1,8 @@
 # Software engineering
 
 ## Softwaretechnik - Vorgehensmodelle
+* [**Domain-driven Design (DDD)**](https://de.wikipedia.org/wiki/Domain-driven_Design) ist eine Herangehensweise an die Modellierung komplexer Software. Die Modellierung der Software wird dabei maßgeblich von den umzusetzenden Fachlichkeiten der Anwendungsdomäne beeinflusst.
+
 * [**Testgetriebene Entwicklung (TDD)**](https://de.wikipedia.org/wiki/Testgetriebene_Entwicklung) ist eine Methode, die häufig bei der agilen Entwicklung von Computerprogrammen eingesetzt wird. Bei der testgetriebenen Entwicklung erstellt der Programmierer Softwaretests konsequent vor den zu testenden Komponenten.
 
 * [**Behavior Driven Development (BDD)**](https://de.wikipedia.org/wiki/Behavior_Driven_Development) auch als **Specification Driven Development (SDD)** bezeichnet, ist eine Technik der agilen Softwareentwicklung, welche die Zusammenarbeit zwischen Qualitätsmanagement und Business-Analyse in Softwareentwicklungsprojekten stärkt. Beim Behavior Driven Development werden während der Anforderungsanalyse die Aufgaben, Ziele und Ergebnisse der Software in einer bestimmten Textform festgehalten, die später als automatisierte Tests ausgeführt werden kann und damit die Software auf ihre korrekte Implementierung getestet werden kann. Die Softwareanforderungen werden dabei meist in „Wenn-dann“-Sätzen basierend auf der ubiquitären Sprache des Domain-driven Designs verfasst. Damit soll der Übergang zwischen der Sprache der Definition der fachlichen Anforderungen und der Programmiersprache, mittels derer die Anforderungen umgesetzt werden, erleichtert werden.
